@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Привет Илья и CI/CD!!</h2>
+<h2>Hello Il'ya ^_^ CI/CD!!</h2>
 </body>
 </html>
